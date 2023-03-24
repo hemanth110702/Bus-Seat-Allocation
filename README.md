@@ -3,6 +3,8 @@
 To explore this website in your browser, click on the link below     
 https://hemanth110702.github.io/bus-seat-allocation/
 
+else look at the images below which contains screenshots of the website
+
 ##1.Home Page
 ![hom](https://user-images.githubusercontent.com/89832451/205455182-394fad4b-440b-4a67-a8ea-2bc707163e10.png)
 
@@ -23,3 +25,9 @@ https://hemanth110702.github.io/bus-seat-allocation/
 
 ##5.Happy Journey
 ![hj](https://user-images.githubusercontent.com/89832451/205455618-01f26ffc-6673-47d5-8feb-4bc23f1f2ac0.png)
+
+
+#THANK YOU 
+
+Note: To get better expierience of the website, click on the link below    
+https://hemanth110702.github.io/bus-seat-allocation/
