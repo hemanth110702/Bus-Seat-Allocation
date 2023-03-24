@@ -1,6 +1,6 @@
 # Bus-Seat-Allocation
 
-To explore this website in your browser, click on the link below     
+To explore this website in your browser, click on the link below       
 https://hemanth110702.github.io/bus-seat-allocation/
 
 
@@ -28,5 +28,5 @@ https://hemanth110702.github.io/bus-seat-allocation/
 
 ### THANK YOU 
 
-Note: To get better expierience of the website, click on the link below    
+Note: To get a better experience on this website, click on the link below     
 https://hemanth110702.github.io/bus-seat-allocation/
