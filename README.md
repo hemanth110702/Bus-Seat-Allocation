@@ -1,10 +1,14 @@
 # Bus-Seat-Allocation
 
-To explore this website in your browser, click on the link below       
-https://hemanth110702.github.io/bus-seat-allocation/
+### [LIVE SITE](https://hemanth110702.github.io/bus-seat-allocation/)
 
+# Introduction
 
-## SCREENSHOTS
+- Streamline your bus ticket booking experience with our user-friendly website.
+- Enjoy a visually appealing and intuitive demo interface designed with HTML and CSS.
+- Simplify your journey by leveraging the straightforward and efficient reservation process.
+
+# SCREENSHOTS
 
 ### 1.Home Page
 ![hom](https://user-images.githubusercontent.com/89832451/205455182-394fad4b-440b-4a67-a8ea-2bc707163e10.png)
@@ -30,5 +34,3 @@ https://hemanth110702.github.io/bus-seat-allocation/
 
 #### THANK YOU 
 
-Note: To get a better experience on this website, click on the link below     
-https://hemanth110702.github.io/bus-seat-allocation/
